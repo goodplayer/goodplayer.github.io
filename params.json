@@ -1,6 +1,6 @@
 {
   "name": "goodplayer",
   "tagline": "",
-  "body": "### Welcome\r\nmy pages\r\n\r\n### Projects\r\n\r\n#### 1. dstart\r\n\r\n[dstart](https://github.com/goodplayer/dstart)\r\n\r\nstart a program as daemon service. for linux & mac",
+  "body": "### Welcome\r\nmy pages\r\n\r\n### Projects\r\n\r\n#### 1. [dstart](https://github.com/goodplayer/dstart)\r\n\r\nstart a program as daemon service. for linux & mac",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
