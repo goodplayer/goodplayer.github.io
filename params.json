@@ -1,6 +1,6 @@
 {
   "name": "goodplayer",
   "tagline": "",
-  "body": "### Welcome\r\nmy pages\r\n\r\n### Projects\r\n\r\n#### 1. [dstart](https://github.com/goodplayer/dstart)\r\n\r\nstart a program as daemon service. for linux & mac\r\n\r\n#### 2. [vendordep](https://github.com/goodplayer/vendordep)\r\n\r\ngolang project dependencies management tool using 'vendor'",
+  "body": "### Welcome\r\nmy pages\r\n\r\n### Projects\r\n\r\n#### 1. [dstart](https://github.com/goodplayer/dstart)\r\n\r\nstart a program as daemon service. for linux & mac\r\n\r\n#### 2. [vendordep](https://github.com/goodplayer/vendordep)\r\n\r\ngolang project dependencies management tool using 'vendor'\r\n\r\n### Links\r\n\r\nblog(Chinese) [https://blog.moetang.net/](https://blog.moetang.net/)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
